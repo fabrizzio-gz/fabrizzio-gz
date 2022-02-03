@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I graduated in environmental engineering. Realizing that I had enjoyed programming the most during my studies, I decided to switch careers. For the last few years I've enjoyed the process of learning more and more about programming.
+
+- 🔭 I’m currently working on a website to visualize and record events on a map.
+- 🌱 I’m currently learning more about testing React web components.
+
 <!--
 **fabrizzio-gz/fabrizzio-gz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
